@@ -1,6 +1,6 @@
 {
   "name": "city-mcp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "get city hot player",
   "main": "index.js",
   "scripts": {
