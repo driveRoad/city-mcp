@@ -1,7 +1,7 @@
 {
-  "name": "city-mcp",
+  "name": "tblife-image-generate",
   "version": "0.0.2",
-  "description": "get city hot player",
+  "description": "get tblife with background image",
   "main": "index.js",
   "scripts": {
     "prebuild": "rm -rf build/*",
